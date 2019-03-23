@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "demo",
+      "description": "demo ",
+      "id": 1
+    },
+    {
+      "title": "demo",
+      "description": "demo ",
+      "id": 2
+    },
+    {
+      "title": "demo",
+      "description": "demo ",
+      "id": 3
+    },
+    {
+      "title": "i created this stream456",
+      "description": "this was made by me456",
+      "id": 4
+    },
+    {
+      "title": "testing3433",
+      "description": "demo",
+      "userId": "104874573701961903480",
+      "id": 5
+    },
+    {
+      "title": "testing",
+      "description": "tesing",
+      "userId": "104874573701961903480",
+      "id": 6
+    }
+  ]
+}
